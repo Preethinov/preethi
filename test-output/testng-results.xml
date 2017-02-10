@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52060" started-at="2017-02-09T22:56:43Z" finished-at="2017-02-09T22:57:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52060" started-at="2017-02-09T22:56:43Z" finished-at="2017-02-09T22:57:35Z">
+      <class name="Venntro.DynamicLoading">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Venntro.DynamicLoading@23a2f9]" name="setUp" is-config="true" duration-ms="12295" started-at="2017-02-09T22:57:02Z" finished-at="2017-02-09T22:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="messageHelloWorld()[pri:0, instance:Venntro.DynamicLoading@23a2f9]" name="messageHelloWorld" duration-ms="2137" started-at="2017-02-09T22:57:14Z" finished-at="2017-02-09T22:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messageHelloWorld -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Venntro.DynamicLoading@23a2f9]" name="tearDown" is-config="true" duration-ms="28" started-at="2017-02-09T22:57:17Z" finished-at="2017-02-09T22:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Venntro.DynamicLoading -->
+      <class name="Venntro.LoginExample">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Venntro.LoginExample@1604f19]" name="setUp" is-config="true" duration-ms="17070" started-at="2017-02-09T22:56:43Z" finished-at="2017-02-09T22:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="unAuthorisedUser()[pri:1, instance:Venntro.LoginExample@1604f19]" name="unAuthorisedUser" duration-ms="1612" started-at="2017-02-09T22:57:00Z" finished-at="2017-02-09T22:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unAuthorisedUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Venntro.LoginExample@1604f19]" name="tearDown" is-config="true" duration-ms="44" started-at="2017-02-09T22:57:02Z" finished-at="2017-02-09T22:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Venntro.LoginExample -->
+      <class name="Venntro.CheckBoxSelection">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Venntro.CheckBoxSelection@c0edeb]" name="setUp" is-config="true" duration-ms="9213" started-at="2017-02-09T22:57:17Z" finished-at="2017-02-09T22:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loadingBar()[pri:0, instance:Venntro.CheckBoxSelection@c0edeb]" name="loadingBar" duration-ms="9526" started-at="2017-02-09T22:57:26Z" finished-at="2017-02-09T22:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadingBar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Venntro.CheckBoxSelection@c0edeb]" name="tearDown" is-config="true" duration-ms="13" started-at="2017-02-09T22:57:35Z" finished-at="2017-02-09T22:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Venntro.CheckBoxSelection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
